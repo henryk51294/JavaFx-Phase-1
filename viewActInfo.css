@@ -1,0 +1,22 @@
+#viewActInfoContent{
+    -fx-background-color:#69f0ae;
+}
+#leftSide{
+    -fx-font-size:14px;
+}
+#label1{
+    -fx-text-fill: #ffffff;
+    -fx-font-size: 20px
+}
+#logOut{
+    -fx-text-fill: #f50057;
+}
+#profName{
+    -fx-text-fill:  #2196f3;
+}
+#profPicView, #hb{
+    -fx-background-insets: 0,1,2;
+    -fx-background-radius: 3,2,1;
+    -fx-padding: 3 30 3 30;
+    -fx-border-width: 1.0;
+}

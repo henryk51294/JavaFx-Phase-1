@@ -1,0 +1,23 @@
+#signUpTopContainer{
+    /*-fx-background-color:linear-gradient(#eeeeee,#e0e0e0);*/
+    -fx-background-color:#00bcd4;
+/*    -fx-background-color: 
+        #3c7fb1,
+        linear-gradient(#fafdfe, #e8f5fc),
+        linear-gradient(#eaf6fd 0%, #d9f0fc 49%, #bee6fd 50%, #a7d9f5 100%);*/
+}
+#signUpMainContainer{
+    /*-fx-background-color:linear-gradient(#eeeeee,#e0e0e0);*/
+    -fx-background-color:linear-gradient(#80deea,#b2ebf2);
+}
+#welcomeSignUp{
+    -fx-font-size:24px;
+    -fx-text-fill:#ffffff;
+}
+#fname, #lname,#username,#pass,#act_no,#act_type,#save,#bk2login{
+    -fx-font-size: 16px;    
+}
+#save,#bk2login{
+    -fx-background-color:#00bcd4;
+    
+}
